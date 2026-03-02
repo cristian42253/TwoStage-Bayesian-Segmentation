@@ -3,9 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18831857.svg)](https://doi.org/10.5281/zenodo.18831857)
 ## Overview
 
-This repository contains the Python implementation of the **Two-Stage Bayesian Segmentation Algorithm** developed for detecting structural changes in time series with high serial correlation.
+This repository contains the Python implementation of the **Two-Stage Bayesian Segmentation Algorithm**, developed to detect structural changes in time series with high serial correlation.
 
-The method addresses the problem of **Weak Identification** and **Likelihood Ridges** (Gustafson, 2010; Florens & Simoni, 2021) inherent in the simultaneous estimation of change-points and autoregressive parameters. By adopting a **Sequential Identification Strategy**, the algorithm decouples structure learning from noise estimation, ensuring asymptotic consistency and valid Bayesian learning.
+The method addresses the problems of **Weak Identification** and **Likelihood Ridges** (Gustafson, 2010; Florens & Simoni, 2021) inherent in the simultaneous estimation of change points and autoregressive parameters. By adopting a **Sequential Identification Strategy**, the algorithm decouples structure learning from noise estimation, ensuring asymptotic consistency and valid Bayesian learning.
 
 ## Key Features
 
@@ -33,4 +33,4 @@ The estimation process follows the theoretical pipeline described in the associa
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tu_usuario/TwoStage-Bayesian-Segmentation.git](https://github.com/tu_usuario/TwoStage-Bayesian-Segmentation.git)
+   git clone [[https://github.com/tu_usuario/TwoStage-Bayesian-Segmentation.git](https://github.com/tu_usuario/TwoStage-Bayesian-Segmentation.git)](https://github.com/cristian42253/TwoStage-Bayesian-Segmentation.git)
