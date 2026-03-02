@@ -1,6 +1,6 @@
 # Two-Stage Bayesian Segmentation with AR(1) Errors
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)]([https://doi.org/10.5281/zenodo.18831857])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18831857.svg)](https://doi.org/10.5281/zenodo.18831857)
 ## Overview
 
 This repository contains the Python implementation of the **Two-Stage Bayesian Segmentation Algorithm** developed for detecting structural changes in time series with high serial correlation.
