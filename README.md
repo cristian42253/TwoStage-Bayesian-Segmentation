@@ -27,7 +27,7 @@ The estimation process follows the theoretical pipeline described in the associa
 2.  **Structure Learning:** Metropolis-Hastings with analytic integration of nuisance parameters.
 3.  **Parameter Recovery:** Conditional GLS estimation on stationary residuals.
 
-> **Full Diagram:** A high-resolution flowchart of the coupling between modules is available in [`supplementary_material/Algorithm_Scheme_Flowchart.pdf`](./supplementary_material/Algorithm_Scheme_Flowchart.pdf).
+> **Full Diagram:** A high-resolution flowchart of the coupling between modules is available in [`supplementary_material/Algorithm_Scheme_Flowchart.pdf`](Algorithm_Scheme_Flowchart.pdf).
 
 ## Installation & Usage
 
