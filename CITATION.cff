@@ -1,0 +1,11 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "García-Bermúdez"
+  given-names: "Cristian"
+  orcid: "https://orcid.org/0000-0003-4783-3096"
+title: "Two-Stage Bayesian Segmentation with AR(1) Errors"
+version: 1.0.0
+date-released: 2024-03-02
+url: "https://github.com/cristian42253/TwoStage-Bayesian-Segmentation.git"
